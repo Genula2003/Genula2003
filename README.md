@@ -1,16 +1,16 @@
 # Hi, I'm Genula 👋
 
-🎓 BSc.Computer Science Undergraduate  
+🎓 HND Computing Undergraduate  
 💻 Junior Software Developer  
-📍 Dubai
+📍 Sri Lanka  
 
 ---
 
 ## 🚀 About Me
 
-I am a junior software developer with a background in process analysis and compliance-driven operations.  
+I am a junior software developer with a background in process analysis and compliance-driven operations.
 
-I independently built and deployed a production ERP system for a Dubai-based HR consultancy as a freelance project, handling the full development lifecycle from requirement gathering to deployment.
+I independently built and deployed a production ERP system for a Dubai-based HR consultancy as a freelance project, managing the full development lifecycle from requirement gathering to deployment.
 
 I enjoy building database-driven systems, workflow automation tools, and scalable web applications.
 
@@ -35,21 +35,32 @@ I enjoy building database-driven systems, workflow automation tools, and scalabl
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### ALFA HR ERP (Production)
-Web-based ERP system for HR consultancy operations.
+### 🏢 ALFA HR ERP (Production)
+Web-based ERP system built for a Dubai-based HR consultancy.
 
 🔗 Live: https://alfa-hr-erp.web.app/
 
-Built using:
-- .NET backend
-- React frontend
-- PostgreSQL database
-- Role-based access control (RBAC)
+- .NET backend  
+- React frontend  
+- PostgreSQL database  
+- Role-based access control (RBAC)  
+- Workflow-based recruitment tracking  
+
+---
+
+### 🛡 VigilantIQ (In Development)
+Modern remote proctoring platform concept for secure online exams.
+
+- Candidate ID & workspace verification workflow  
+- Session queue management system  
+- Grid-style proctor monitoring  
+- Audit logging & structured documentation  
+- Role-based dashboard design  
 
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: (add your link)
+- LinkedIn: https://www.linkedin.com/in/genula-geemal-9b6879227/
 - Email: mk.genula12@gmail.com
