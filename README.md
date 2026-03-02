@@ -31,10 +31,6 @@ I am a junior software developer with a background in process analysis and compl
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=genula2003&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=genula2003&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
 
 ## 🚀 Featured Projects
 
