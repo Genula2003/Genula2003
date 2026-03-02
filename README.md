@@ -1,10 +1,20 @@
-# Hi, I'm Genula 👋
+<table>
+<tr>
+<td>
 
-🎓 BSc.Computer Science Undergraduate  
+# Genula Geemal
+
+🎓 BSc. Computer Science Undergraduate  
 💻 Junior Software Developer  
-📍 Dubai,UAE 
+📍 Dubai, UAE  
 
----
+</td>
+<td align="right">
+  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="120" />
+</td>
+</tr>
+</table>
+
 
 # 💫 About Me:
 I am a junior software developer with a background in process analysis and compliance-driven operations.<br><br>I independently built and deployed a production ERP system for a Dubai-based HR consultancy as a freelance project, managing the full development lifecycle from requirement gathering to deployment.<br><br>I enjoy building database-driven systems, workflow automation tools, and scalable web applications.<br><br>
