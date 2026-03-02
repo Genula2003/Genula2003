@@ -1,8 +1,8 @@
 # Hi, I'm Genula 👋
 
-🎓 HND Computing Undergraduate  
+🎓 BSc.Computer Science Undergraduate  
 💻 Junior Software Developer  
-📍 Sri Lanka  
+📍 Dubai,UAE 
 
 ---
 
