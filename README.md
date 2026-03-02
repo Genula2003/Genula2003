@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Genula 👋
 
-<!--
-**Genula2003/Genula2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc.Computer Science Undergraduate  
+💻 Junior Software Developer  
+📍 Dubai
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am a junior software developer with a background in process analysis and compliance-driven operations.  
+
+I independently built and deployed a production ERP system for a Dubai-based HR consultancy as a freelance project, handling the full development lifecycle from requirement gathering to deployment.
+
+I enjoy building database-driven systems, workflow automation tools, and scalable web applications.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+- C#
+- JavaScript
+- TypeScript
+- SQL
+
+**Frameworks & Tools**
+- .NET
+- React
+- PostgreSQL
+- REST APIs
+- Firebase Hosting
+- Git
+- Unity (C#)
+
+---
+
+## 🚀 Featured Project
+
+### ALFA HR ERP (Production)
+Web-based ERP system for HR consultancy operations.
+
+🔗 Live: https://alfa-hr-erp.web.app/
+
+Built using:
+- .NET backend
+- React frontend
+- PostgreSQL database
+- Role-based access control (RBAC)
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: (add your link)
+- Email: mk.genula12@gmail.com
