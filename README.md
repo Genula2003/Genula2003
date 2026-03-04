@@ -60,7 +60,7 @@ Modern remote proctoring platform concept for secure online exams.
 
 ---
 
-###🧠 OpsBridge (Internal Operations Platform)
+### 🧠 OpsBridge (Internal Operations Platform)
 
 Internal collaboration and knowledge platform concept designed for Exam companies and platforms.
 
