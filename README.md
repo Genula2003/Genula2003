@@ -60,3 +60,15 @@ Modern remote proctoring platform concept for secure online exams.
 
 ---
 
+###🧠 OpsBridge (Internal Operations Platform)
+
+Internal collaboration and knowledge platform concept designed for Exam companies and platforms.
+
+• Centralized Verbiage Hub for operational response scripts
+• Shift Stories for sharing real operational experiences
+• Culture Threads for structured team discussions
+• Break Buddy system for coordinating team breaks during shifts
+• Team recognition and internal event sharing
+• Built with Next.js, Firebase, and modern dashboard UI
+
+---
